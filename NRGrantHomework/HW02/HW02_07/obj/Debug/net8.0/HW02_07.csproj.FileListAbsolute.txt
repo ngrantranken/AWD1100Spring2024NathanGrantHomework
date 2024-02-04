@@ -1,0 +1,15 @@
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\bin\Debug\net8.0\HW02_07.exe
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\bin\Debug\net8.0\HW02_07.deps.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\bin\Debug\net8.0\HW02_07.runtimeconfig.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\bin\Debug\net8.0\HW02_07.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\bin\Debug\net8.0\HW02_07.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\HW02_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\HW02_07.AssemblyInfoInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\HW02_07.AssemblyInfo.cs
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\HW02_07.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\HW02_07.sourcelink.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\HW02_07.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\refint\HW02_07.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\HW02_07.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\HW02_07.genruntimeconfig.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW02\HW02_07\obj\Debug\net8.0\ref\HW02_07.dll
