@@ -1,0 +1,17 @@
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\bin\Debug\net8.0-windows\HW03_01a.exe
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\bin\Debug\net8.0-windows\HW03_01a.deps.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\bin\Debug\net8.0-windows\HW03_01a.runtimeconfig.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\bin\Debug\net8.0-windows\HW03_01a.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\bin\Debug\net8.0-windows\HW03_01a.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03.frmBMIValidation.resources
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03_01a.csproj.GenerateResource.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03_01a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03_01a.AssemblyInfoInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03_01a.AssemblyInfo.cs
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03_01a.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03_01a.sourcelink.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03_01a.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\refint\HW03_01a.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03_01a.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\HW03_01a.genruntimeconfig.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\Homework\NRGrantHomework\HW03\HW03\obj\Debug\net8.0-windows\ref\HW03_01a.dll
