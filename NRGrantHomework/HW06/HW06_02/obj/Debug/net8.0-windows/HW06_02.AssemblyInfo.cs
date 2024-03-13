@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HW04_06")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HW06_02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+951aa750b6eac899815793fa9286c73c01bfe056")]
-[assembly: System.Reflection.AssemblyProductAttribute("HW04_06")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HW04_06")]
+[assembly: System.Reflection.AssemblyProductAttribute("HW06_02")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HW06_02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
